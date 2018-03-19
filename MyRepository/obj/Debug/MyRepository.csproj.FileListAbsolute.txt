@@ -1,0 +1,5 @@
+P:\Sitecore\MySitecoreApplication\MyRepository\bin\Debug\MyRepository.dll
+P:\Sitecore\MySitecoreApplication\MyRepository\bin\Debug\MyRepository.pdb
+P:\Sitecore\MySitecoreApplication\MyRepository\obj\Debug\MyRepository.csprojResolveAssemblyReference.cache
+P:\Sitecore\MySitecoreApplication\MyRepository\obj\Debug\MyRepository.dll
+P:\Sitecore\MySitecoreApplication\MyRepository\obj\Debug\MyRepository.pdb
